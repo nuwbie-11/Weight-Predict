@@ -1,4 +1,4 @@
-**Ad astra abyssosque!**
+<em>Ad astra abyssosque!</em>
 
 ## Dashboard Preview
 
