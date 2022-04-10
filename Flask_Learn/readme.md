@@ -19,4 +19,4 @@
 
 ## Consideration
 - Input Height dalam Inches
-- Model masih jauh dari kata sempurna (Feel Free to Develop More!!)
+- Model masih jauh dari kata sempurna (Feel Free to Contribute!!)
